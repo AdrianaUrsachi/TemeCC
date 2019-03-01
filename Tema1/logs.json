@@ -1,0 +1,2720 @@
+[
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.5613982677459717
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.6444568634033203
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.6905028820037842
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7054994106292725
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8145782947540283
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.617438554763794
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5543930530548096
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5794110298156738
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.9286589622497559
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.7635407447814941
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.5644128322601318
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 1.7592461109161377
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.6384515762329102
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9530503749847412
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5777928829193115
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 5.779358863830566
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 7.352189779281616
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9313993453979492
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6564521789550781
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.6647307872772217
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 2.2955970764160156
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.1657376289367676
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6383981704711914
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 2.6858158111572266
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 4.533024787902832
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9762229919433594
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6485319137573242
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.5581746101379395
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.2379541397094727
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0235378742218018
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.8126580715179443
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.5736098289489746
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.4668190479278564
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.963569164276123
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6462094783782959
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.5475356578826904
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 2.2093594074249268
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0082712173461914
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.595391035079956
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.5267438888549805
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.1868197917938232
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9767301082611084
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5702071189880371
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.5917932987213135
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 2.191608428955078
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9727885723114014
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6050951480865479
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.4931681156158447
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 2.129115343093872
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8827958106994629
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.7692933082580566
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.5380215644836426
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 2.2783010005950928
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.1094257831573486
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6227867603302002
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.4879786968231201
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 2.275240898132324
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8633885383605957
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6922662258148193
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.5391683578491211
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 2.1448442935943604
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9049317836761475
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5364344120025635
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.4918217658996582
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 1.9962162971496582
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8867011070251465
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5940430164337158
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.6241908073425293
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 2.1628973484039307
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.10792875289917
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5810697078704834
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.5733432769775391
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.3253893852233887
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.1821544170379639
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5976042747497559
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.5003302097320557
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 2.3271067142486572
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8046884536743164
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6042091846466064
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.6812334060668945
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 2.1511423587799072
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0503017902374268
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5827157497406006
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.8080835342407227
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.5061070919036865
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9086394309997559
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6813797950744629
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.6510627269744873
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 2.3060965538024902
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9174392223358154
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6408374309539795
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.630446195602417
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 2.2527010440826416
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0826492309570312
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6303117275238037
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.5023660659790039
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.2802932262420654
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.241351842880249
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5932941436767578
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.5298168659210205
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 2.43048095703125
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0419931411743164
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6647319793701172
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.5245375633239746
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 2.295262336730957
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9734392166137695
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.7399754524230957
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.6489460468292236
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.4283618927001953
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.727637767791748
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6780381202697754
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.5585775375366211
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 2.0292303562164307
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0870120525360107
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.82948899269104
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.6684935092926025
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 2.6509921550750732
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8295595645904541
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6363821029663086
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.486342191696167
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 2.016305923461914
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0669677257537842
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6004772186279297
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.4886589050292969
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 2.2231242656707764
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.205796718597412
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6255054473876953
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.5141091346740723
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.4108896255493164
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9013819694519043
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6152410507202148
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.6097707748413086
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.1943583488464355
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8143844604492188
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6708340644836426
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.5175199508666992
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 2.0796756744384766
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0161430835723877
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6699559688568115
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.5458018779754639
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 2.3039002418518066
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8317089080810547
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6782839298248291
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.540104866027832
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 2.118070125579834
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.9800114631652832
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.7635848522186279
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.49773740768432617
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 2.3093791007995605
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.026254415512085
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6303708553314209
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.5380535125732422
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 2.263477087020874
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.095404863357544
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.862252950668335
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.7833340167999268
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 2.809009075164795
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.0789167881011963
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6901209354400635
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.48246145248413086
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 2.3195290565490723
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.030705451965332
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.7973833084106445
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.38132596015930176
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 2.2794618606567383
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7394423484802246
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5557889938354492
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.3585200309753418
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.722825527191162
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.743614673614502
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.594221830368042
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.4036064147949219
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 1.8114185333251953
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7189345359802246
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.49964475631713867
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.49956703186035156
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 1.7871739864349365
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.996107816696167
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6206057071685791
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.3924844264984131
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.080214023590088
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.6580417156219482
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.47305846214294434
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.44445228576660156
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 1.6475193500518799
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8830041885375977
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.66788649559021
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.4640953540802002
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 2.0859503746032715
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7382822036743164
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.49952125549316406
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.43170976638793945
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 1.7395844459533691
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7736942768096924
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.46274805068969727
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.36563754081726074
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 1.6720705032348633
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8493361473083496
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.45240187644958496
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.37273120880126953
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.7446818351745605
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8402671813964844
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.5101892948150635
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.38461971282958984
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 1.808079481124878
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.860612154006958
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.45806384086608887
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.4604947566986084
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 1.8512179851531982
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7670905590057373
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.46941518783569336
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.39319372177124023
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 1.7017238140106201
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.5317409038543701
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2660341262817383
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.4721963405609131
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 1.291987657546997
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.44659996032714844
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2533245086669922
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.3959803581237793
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 1.1199281215667725
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.46248555183410645
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2731938362121582
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.3442494869232178
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.1419637203216553
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.46833300590515137
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.3212282657623291
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.3392455577850342
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 1.1698286533355713
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.3952815532684326
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2952094078063965
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.40628623962402344
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 1.126798391342163
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4808838367462158
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.23498082160949707
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.17778563499450684
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 0.9156663417816162
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4721498489379883
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2601320743560791
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.3297874927520752
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 1.086085557937622
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.44371509552001953
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.22700238227844238
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.19186902046203613
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 0.8836348056793213
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.31026124954223633
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2386326789855957
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.18249726295471191
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 0.7544171810150146
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.6057267189025879
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.23380708694458008
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.19423675537109375
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 1.05680251121521
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.44283246994018555
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.20383691787719727
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.19904041290283203
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 0.8677089214324951
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.41537022590637207
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.22440671920776367
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.1745448112487793
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 0.8393597602844238
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.37230610847473145
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2277965545654297
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.18925070762634277
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 0.8123817443847656
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.3363535404205322
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2236778736114502
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.18012666702270508
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 0.762197732925415
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4525876045227051
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.24736857414245605
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.19116616249084473
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 0.9131650924682617
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.47615694999694824
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.22371935844421387
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.191389799118042
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 0.9152970314025879
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.3224172592163086
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2265787124633789
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.19833660125732422
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 0.7733519077301025
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4656341075897217
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.4268202781677246
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.19607257843017578
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.1135609149932861
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.3812108039855957
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2430706024169922
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.1952199935913086
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 0.842522382736206
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.49810099601745605
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2699704170227051
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.18047785758972168
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 0.9735774993896484
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4634995460510254
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.25969386100769043
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.22307968139648438
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 0.9702894687652588
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.5042073726654053
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.29697680473327637
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.1975564956665039
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.0237388610839844
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.859879732131958
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.23544621467590332
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.18410253524780273
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 1.3034188747406006
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4668846130371094
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.21996092796325684
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.17677736282348633
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 0.8896050453186035
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.44025087356567383
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2504870891571045
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.19822978973388672
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 0.9129695892333984
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.6149957180023193
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.25102758407592773
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.2222614288330078
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 1.1153042316436768
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.47586560249328613
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.254321813583374
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.19599223136901855
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 0.9591996669769287
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4661738872528076
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.19208550453186035
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.17972588539123535
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 0.8620059490203857
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4681234359741211
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.23514389991760254
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.19717741012573242
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 0.9244904518127441
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.49079346656799316
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2024366855621338
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.19336748123168945
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 0.9106080532073975
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4558420181274414
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2356722354888916
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.18201947212219238
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 0.8985395431518555
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.41791844367980957
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.36162900924682617
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.1800534725189209
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 0.9959549903869629
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.49492454528808594
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.3874495029449463
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.2118515968322754
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.1202361583709717
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4423201084136963
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.22117280960083008
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.20314240455627441
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 0.8926403522491455
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4716463088989258
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.3232424259185791
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.18163704872131348
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 1.000551700592041
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4940509796142578
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.23343849182128906
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.20806145668029785
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 0.9605445861816406
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4670267105102539
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.31232786178588867
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.24649667739868164
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 1.0508265495300293
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.46088600158691406
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.34224653244018555
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.21424412727355957
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 1.0424048900604248
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.6080322265625
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.26220178604125977
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.20446228981018066
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 1.0997238159179688
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4560258388519287
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.26017165184020996
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.19773507118225098
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 0.9389491081237793
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7581949234008789
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.24218273162841797
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.2013380527496338
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.2307133674621582
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.46814846992492676
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2224712371826172
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.17702817916870117
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 0.8946638107299805
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4458637237548828
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.26520347595214844
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.17840576171875
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 0.913517951965332
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Lisbon&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4358084201812744
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=38.7077507&lon=-9.1365919&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.25255584716796875
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:lisbon/images/",
+        "Response": 200,
+        "Latency": 0.17995834350585938
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Lisbon",
+        "Response": 200,
+        "Latency": 0.894371509552002
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.42084717750549316
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2171027660369873
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.1812291145324707
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 0.8451857566833496
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.4470517635345459
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.23403167724609375
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.1989424228668213
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 0.9060542583465576
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.31920337677001953
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2754230499267578
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.24722528457641602
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 0.8668403625488281
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=New%20York&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.5033209323883057
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.7308619&lon=-73.9871558&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.2560129165649414
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:new%20york/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.1927642822265625
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=New%20York",
+        "Response": 200,
+        "Latency": 0.9789142608642578
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.49759745597839355
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.3331153392791748
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.17920827865600586
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 1.0369279384613037
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.5679881572723389
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 1.8076701164245605
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.9922688007354736
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 4.481812000274658
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.937281608581543
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6293742656707764
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 1.0540809631347656
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 2.7037713527679443
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.102159023284912
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 1.259399652481079
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.9052414894104004
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 3.3388772010803223
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.1517479419708252
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.8272843360900879
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.7367231845855713
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.8088436126708984
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 5.20122766494751
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.724311113357544
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 1.2589247226715088
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 7.282477855682373
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Bucharest&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 2.0272343158721924
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=44.4361414&lon=26.1027202&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6005539894104004
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:bucharest/images/",
+        "Response": 200,
+        "Latency": 0.7540452480316162
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Bucharest",
+        "Response": 200,
+        "Latency": 3.46889066696167
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.1979107856750488
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.8613004684448242
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.7421905994415283
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.8954174518585205
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=London&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7761611938476562
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=51.5073219&lon=-0.1276474&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.45180606842041016
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:london/images/",
+        "Response": 200,
+        "Latency": 0.7103657722473145
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=London",
+        "Response": 200,
+        "Latency": 2.052436351776123
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.8029370307922363
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.48157763481140137
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.5407872200012207
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 1.9235646724700928
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Iasi&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 1.7876906394958496
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=47.161494&lon=27.5840504&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.4893653392791748
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:iasi/images/",
+        "Response": "404 Not found.",
+        "Latency": 0.7092404365539551
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Iasi",
+        "Response": 200,
+        "Latency": 3.085317611694336
+    },
+    {
+        "API": "OpenCageData",
+        "Request": "https://api.opencagedata.com/geocode/v1/json?q=Madrid&key=ab63861a07014cd0b47ec82e6934fab4&language=ro&pretty=1",
+        "Response": 200,
+        "Latency": 0.7242019176483154
+    },
+    {
+        "API": "OpenWeatherMap",
+        "Request": "https://api.openweathermap.org/data/2.5/weather?lat=40.4167047&lon=-3.7035825&APPID=836f67068f5bfbce34f0c20013b592c8",
+        "Response": 200,
+        "Latency": 0.6386308670043945
+    },
+    {
+        "API": "Teleport",
+        "Request": "https://api.teleport.org/api/urban_areas/slug:madrid/images/",
+        "Response": 200,
+        "Latency": 0.5959727764129639
+    },
+    {
+        "API": "My Api",
+        "Request": "/api/city=Madrid",
+        "Response": 200,
+        "Latency": 2.0528178215026855
+    }
+]
