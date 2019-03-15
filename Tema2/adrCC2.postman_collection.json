@@ -1,0 +1,595 @@
+{
+	"info": {
+		"_postman_id": "da62a3ee-1549-41b4-88b1-baee69a629da",
+		"name": "adrCC2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "gets",
+			"item": [
+				{
+					"name": "http://localhost:8000/owners",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/owners",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"owners"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/owners/1153327533602698606081836353082",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/owners/1153327533602698606081836353082",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"owners",
+								"1153327533602698606081836353082"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/owners/1153327533602698606081836353082/gadgets",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/owners/1153327533602698606081836353082/gadgets",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"owners",
+								"1153327533602698606081836353082",
+								"gadgets"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/owners/1153327533602698606081836353082/gadgets/142425695062245540143979267192",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/owners/1153327533602698606081836353082/gadgets/142425695062245540143979267192",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"owners",
+								"1153327533602698606081836353082",
+								"gadgets",
+								"142425695062245540143979267192"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/brands",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/brands",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"brands"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/brands/190137634769825743215415903838",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/brands/190137634769825743215415903838",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"brands",
+								"190137634769825743215415903838"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/brands/190137634769825743215415903838/gadgets",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/brands/190137634769825743215415903838/gadgets",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"brands",
+								"190137634769825743215415903838",
+								"gadgets"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/brands/190137634769825743215415903838/gadgets/128225343568633738679030690921",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/brands/190137634769825743215415903838/gadgets/128225343568633738679030690921",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"brands",
+								"190137634769825743215415903838",
+								"gadgets",
+								"128225343568633738679030690921"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/gadgets",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/gadgets/128225343568633738679030690921",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets/128225343568633738679030690921",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets",
+								"128225343568633738679030690921"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/gadgets/128225343568633738679030690921/owner",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets/128225343568633738679030690921/owner",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets",
+								"128225343568633738679030690921",
+								"owner"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/gadgets/128225343568633738679030690921/brand",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets/128225343568633738679030690921/brand",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets",
+								"128225343568633738679030690921",
+								"brand"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "posts",
+			"item": [
+				{
+					"name": "http://localhost:8000/brands",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"Ioana\",\n\t\"age\": 22\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8000/owners",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"owners"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/owners",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"Iphone\",\n\t\"brandId\": 107101153812737213998624687356,\n\t\"ownerId\": 1021038742728653296716587910037\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/gadgets",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"Iphone\",\n\t\"brandId\": 107101153812737213998624687356,\n\t\"ownerId\": 1021038742728653296716587910037\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "deletes",
+			"item": [
+				{
+					"name": "http://localhost:8000/gadgets/928835169671627817484002069197",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets/928835169671627817484002069197",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets",
+								"928835169671627817484002069197"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/brands/107101153812737213998624687356",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/brands/107101153812737213998624687356",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"brands",
+								"107101153812737213998624687356"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/owners/1021038742728653296716587910037",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:8000/owners/1021038742728653296716587910037",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"owners",
+								"1021038742728653296716587910037"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "puts",
+			"item": [
+				{
+					"name": "http://localhost:8000/gadgets",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"id\": 928835169671627817484002069197,\n\t\"name\": \"Iphone X\",\n\t\"brandId\": 107101153812737213998624687356,\n\t\"ownerId\": 1021038742728653296716587910037\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/owners",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"id\": 1021038742728653296716587910037,\n\t\"name\": \"Ioana Ghitun\",\n\t\"age\": 22\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8000/owners",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"owners"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://localhost:8000/brands",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"id\": 107101153812737213998624687356\n}"
+						},
+						"url": {
+							"raw": "http://localhost:8000/gadgets",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"gadgets"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
