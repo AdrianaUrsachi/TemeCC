@@ -1,0 +1,155 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+
+		<title>Tema 3</title>
+		<style>
+		body {
+			background-color:cornflowerblue;
+		}
+		
+		#title{
+			text-align: center;
+			font-size: 150px;
+			font-style: italic;
+		}
+		#text{
+			padding-top: 10px;
+			font-size: 30px;
+		}
+		#content{
+			display:flex;
+			justify-content: space-evenly;
+			flex-direction: column;
+            align-items: center;
+			padding-top: 50px;
+		}
+		#item{
+			margin-top: 10px;
+			font-size: 20px;
+			text-align: justify;
+		}
+
+		</style>
+	</head>
+<body>
+	<div id="title">Hello there!</div>
+	<div id="content">
+		<div id = "text">
+			I will give you information about any location you want.
+		</div>
+        <div id = "text">
+			<span><b>Enter a location:</b></span>
+			<br />
+			<input type="text" id="client-input" />
+			<input type="button" value="Send" onclick="onSend()" />
+		</div>
+
+	    <div id ="item">
+		    <ul id="listaQuery"></ul>
+	    </div>
+
+		<div id ="item">
+			<ul id='placeDetails'></ul>
+	    </div>
+
+	    <div id ="item">
+		    <img id="imagine" />
+	    </div>
+
+	    <div id = "item">
+			<ul id='imageProperties'></ul>
+	    </div>
+    </div>
+</body>
+<script>
+	function onSend() {
+		let input = document.getElementById('client-input').value;
+		if (location == '') {
+		} else {
+			var xhttp = new XMLHttpRequest();
+			xhttp.onreadystatechange = function () {
+				if (this.readyState == 4 && this.status == 200) {
+					response = JSON.parse(xhttp.responseText);
+					document.getElementById('imagine').src = 'data:image/jpeg;base64,' + response.image;
+					document.getElementById('imagine').style = "width:1000px;height:800px;border: 2mm ridge midnightblue;"
+
+					var parent = document.getElementById('listaQuery');
+					parent.innerHTML = '';
+					
+					parent.innerText = 'Results from Google:'
+
+					response.searchResponses.forEach(item => {
+						var child = document.createElement('A');
+						child.href = item.link;
+						child.innerText = item.title;
+						var liChild = document.createElement('LI');
+						liChild.appendChild(child)
+						liChild.style ="margin-left:15px;"
+						parent.appendChild(liChild);
+					});
+					parent.style = "background: lightblue;border: 2mm ridge midnightblue;padding: 0.7rem;background-size: 400% 400%;";
+
+					var imageProperties = document.getElementById('imageProperties');
+         
+					imageProperties.innerText = '';
+					imageProperties.innerText += "Map information:" + '\n';
+					var liChild = document.createElement('LI');
+					liChild.innerText += "Fields " + response.imageProperties.fields+'%';
+					liChild.style ="margin-left:15px;"
+					imageProperties.appendChild(liChild);
+					var liChild = document.createElement('LI');
+					liChild.innerText += "Mountains " + response.imageProperties.mountains + '%';
+					liChild.style ="margin-left:15px;"
+					imageProperties.appendChild(liChild);
+					var liChild = document.createElement('LI');
+					liChild.innerText += "Water " + response.imageProperties.water + '%';
+					liChild.style ="margin-left:15px;"
+					imageProperties.appendChild(liChild);
+					var liChild = document.createElement('LI');
+					liChild.innerText += "Others " + response.imageProperties.others + '%';
+					liChild.style ="margin-left:15px;"
+					imageProperties.appendChild(liChild);
+					imageProperties.style = "background: lightblue;border: 2mm ridge midnightblue;padding: 0.7rem;background-size: 400% 400%;";
+
+					var placeDetails = document.getElementById('placeDetails');
+
+					placeDetails.innerText = '';
+          placeDetails.style = null;          
+					if (response.placeDetails != false ) {
+						placeDetails.innerText +='Some details:' + '\n';
+						var liChild = document.createElement('LI');
+						liChild.innerText += "Long Name -> " + response.placeDetails.longName;
+						liChild.style ="margin-left:15px;"
+						placeDetails.appendChild(liChild);
+						var liChild = document.createElement('LI');
+						liChild.innerText += "Short Name -> " + response.placeDetails.shortName;
+						liChild.style ="margin-left:15px;"
+						placeDetails.appendChild(liChild);
+						var liChild = document.createElement('LI');
+						liChild.innerText += "Location Type -> " + response.placeDetails.type;
+						liChild.style ="margin-left:15px;"
+						placeDetails.appendChild(liChild);
+						var liChild = document.createElement('LI');
+						liChild.innerText += "Latitude -> " + response.placeDetails.latitude;
+						liChild.style ="margin-left:15px;"
+						placeDetails.appendChild(liChild);
+						var liChild = document.createElement('LI');
+						liChild.innerText += "Longitude -> " + response.placeDetails.longitude;
+						liChild.style ="margin-left:15px;"
+						placeDetails.appendChild(liChild);
+						placeDetails.style = "background: lightblue;border: 2mm ridge midnightblue;padding: 0.7rem;background-size: 400% 400%;";
+					}
+				}
+			};
+			xhttp.open(
+				'GET',
+				'https://8080-dot-6924241-dot-devshell.appspot.com/compute?query=' + input,
+				true
+			);
+			xhttp.send();
+		}
+	}
+</script>
+
+</html>
